@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "0fb2c64d-3671-4939-8ea3-d8ab7f2f84c8",
+      "name": "STU23",
+      "email": "stu@gmail.com"
+    },
+    {
+      "id": "ab0812ce-4dbc-4a31-b12f-9d406950cabb",
+      "name": "VWX",
+      "email": "vwx@gmail.com"
+    },
+    {
+      "id": "3c408a69-b16a-40e4-bd84-608bcaf3a1c0",
+      "name": "YZ",
+      "email": "yz@gmail.com"
+    }
+  ]
+}
